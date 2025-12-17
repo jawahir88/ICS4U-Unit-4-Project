@@ -1,6 +1,6 @@
 # ICS4U-Unit-4-Project
 Project introduction / overview
-My game features "Cloudy with a chance of meatballs"'s main character, Flint Lockwood in his attempts to gain points by catching the yummy meatballs and avoid losing points by not colliding with the rotten meatballs!
+My game features "Cloudy with a chance of meatballs"'s main character, Flint Lockwood in his attempts to gain points by catching the yummy meatballs and avoid losing points by not colliding with the rotten meatballs! /
 What the project does
 How to run the program
 The program is run when the "main.java" is the main file and its runned
